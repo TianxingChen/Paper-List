@@ -3,7 +3,18 @@
 	RoboScholar: A Comprehensive Paper List of Embodied AI and Robotics Research
 </h1>
 
-> Not Ready Yet...
+> It's RoboScholar Project Here, started by [Tianxing Chen](http://tianxingchen.github.io/).<br>
+> Related Information:
+<div style="">
+  <div>
+    <img src="./files/RoboScholar-logo.png">
+    <p>Lumina Embodied AI Community</p>
+  </div>
+  <div>
+    <img src="./files/RoboScholar-logo.png">
+    <p>Embodied-AI-Guide</p>
+  </div>
+</div>
 
 ## Sections
 - Manipulation
@@ -34,194 +45,55 @@
 # Recent Random Papers
 Open-Vocabulary 3D Articulated Objects Modeling
 https://arxiv.org/pdf/2507.02747
-* **[arXiv 25]** RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics, [arXiv](https://arxiv.org/abs/2506.04308)
-* **[arXiv 25]** Robo-DM: Data Management For Large Robot Datasets, [arXiv](https://arxiv.org/abs/2505.15558)
-* **[arXiv 25]** Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization, [arXiv](https://arxiv.org/abs/2505.15660)
-* **[arXiv 25]** Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2505.13982)
-* **[arXiv 25]** DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories, [arXiv](https://arxiv.org/abs/2505.12705)
-* **[arXiv 25]** Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling, [arXiv](https://arxiv.org/abs/2502.02590)
-* **[arXiv 25]** LEMON: Learning 3D Human-Object Interaction Relation from 2D Images, [arXiv](https://arxiv.org/pdf/2312.08963)
-* **[arXiv 25]** Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2505.04619)
-* **[arXiv 25]** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation, [arXiv](https://arxiv.org/abs/2504.17784)
-* **[arXiv 25]** SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model, [arXiv](https://arxiv.org/abs/2501.15830)
-* **[RSS 25]** Unified Video Action Model, [webpage](https://unified-video-action-model.github.io/)
-* **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/pdf/2504.12908)
-* **[RSS 25]** Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation, [arXiv](https://reactive-diffusion-policy.github.io/)
-* **[arXiv 24]** GRAPE: Generalizing Robot Policy via Preference Alignment, [arXiv](https://arxiv.org/abs/2411.19309)
-* **[arXiv 25]** GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill, [arXiv](https://arxiv.org/abs/2504.04191)
-* **[arXiv 24]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, [arXiv](https://arxiv.org/abs/2409.20537)
-* **[arXiv 24]** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, [arXiv](https://arxiv.org/abs/2411.19650)
-* **[arXiv 25]** Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation, [arXiv](https://arxiv.org/abs/2504.17784)
-* **[arXiv 25]** Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation, [arXiv](https://arxiv.org/abs/2504.12908)
-* **[arXiv 24]** HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/)
+
+
+
+
+
+
+- [] **[arXiv 25]** LEMON: Learning 3D Human-Object Interaction Relation from 2D Images, [arXiv](https://arxiv.org/pdf/2312.08963)
+
+- [] **[arXiv 25]** Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2505.04619)
+
+
+- [] **[RSS 25]** Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation, [arXiv](https://reactive-diffusion-policy.github.io/)
+- [] **[arXiv 24]** GRAPE: Generalizing Robot Policy via Preference Alignment, [arXiv](https://arxiv.org/abs/2411.19309)
+- [] **[arXiv 25]** GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill, [arXiv](https://arxiv.org/abs/2504.04191)
+- [] **[arXiv 24]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, [arXiv](https://arxiv.org/abs/2409.20537)
+
+
+
+
 
 ## 1. Diffusion Model for Planning, Policy, and RL
-* **[arXiv]** Diffusion Models for Reinforcement Learning: A Survey, [arXiv](https://arxiv.org/abs/2311.01223)
 
-* **[ICLR 23 (Top 5% Notable)]** Is Conditional Generative Modeling all you need for Decision-Making?, [website](https://anuragajay.github.io/decision-diffuser/)
-
-* **[RSS 23]** Diffusion Policy: Visuomotor Policy Learning via Action Diffusion, [website](https://diffusion-policy.cs.columbia.edu/)
-
-* **[ICML 22 (Long Talk)]** Planning with Diffusion for Flexible Behavior Synthesis, [website](https://diffusion-planning.github.io/mobile.html)
-
-* **[ICML 23 Oral]** Adaptdiffuser: Diffusion models as adaptive self-evolving planners, [website](https://adaptdiffuser.github.io/)
-
-* **[CVPR 24]** SkillDiffuser: Interpretable Hierarchical Planning via Skill Abstractions in Diffusion-Based Task Execution, [website](https://skilldiffuser.github.io/)
-
-* **[arXiv]** Learning a Diffusion Model Policy From Reward via Q-Score Matching, [arXiv](https://arxiv.org/abs/2312.11752)
-
-* **[CoRL 23]** ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation, [website](https://chained-diffuser.github.io/)
-
-* **[CVPR 23]** Affordance Diffusion: Synthesizing Hand-Object Interactions, [website](https://judyye.github.io/affordiffusion-www/)
-
-* **[arXiv]** DiffuserLite: Towards Real-time Diffusion Planning, [arXiv](https://arxiv.org/abs/2401.15443)
-
-* **[arXiv]** 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [website](https://3d-diffusion-policy.github.io/)
-
-* **[arXiv]** 3D Diffuser Actor: Policy Diffusion with 3D Scene Representations, [website](https://3d-diffuser-actor.github.io/)
-
-* **[arXiv]** SafeDiffuser: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://safediffuser.github.io/safediffuser/)
-
-* **[CVPR 24]** Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://yusufma03.github.io/projects/hdp/)
-  
-* **[arXiv 24]** Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning, [arXiv](https://arxiv.org/abs/2405.18196)
-
-* **[arXiv 24]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
-
-* **[CoRL 24]** GenDP: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, [website](https://gendp-anon.github.io/)
-
-## 2. 3D-based Manipulation
-
-* **[RSS 24]** RVT-2: Learning Precise Manipulation from Few Examples [website](https://robotic-view-transformer-2.github.io/)
-
-* **[arXiv 23]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
-
-* **[arXiv 24]** UniDoorManip: Learning Universal Door Manipulation Policy Over Large-scale and Diverse Door Manipulation Environments, [website](https://arxiv.org/pdf/2403.02604)
-
-* **[CoRL 23 (Oral)]** GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields, [website](https://yanjieze.com/GNFactor/)
-
-* **[ECCV 24]** ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, [website](https://guanxinglu.github.io/ManiGaussian/)
-
-* **[IROS 24]** RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective, [website](https://rise-policy.github.io/)
-
-### Grasping
-* GraspNet [website](https://graspnet.net/)：
-  * **[TRO 23]** AnyGrasp: Robust and Efficient Grasp Perception in Spatial and Temporal Domains, [arXiv](https://arxiv.org/abs/2212.08333)
-* **[arXiv 24]** ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter, [website](https://h-freax.github.io/thinkgrasp_page/)
-* **[arXiv 24]** GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [website](https://mrsecant.github.io/GaussianGrasper/)
-
-### Articulated Object
-* **[CVPR 22 Oral]** Ditto: Building Digital Twins of Articulated Objects from Interaction, [website](https://ut-austin-rpl.github.io/Ditto/)
-* **[ICRA 24]** RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation, [website](https://rgbmanip.github.io/)
-
-## 3. 2D-based Manipulation
-* **[NIPS 23]** MoVie: Visual Model-Based Policy Adaptation for View Generalization, [website](https://yangsizhe.github.io/MoVie/)
-
-## 4. LLM for robotics (LLM Agent)
-* **[arXiv 24]** OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics, [website](https://ok-robot.github.io)
-
-* **[CoRL 23]** VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, [website](https://voxposer.github.io)
-
-* **[arXiv 23]** ChatGPT for Robotics: Design Principles and Model Abilities, [arXiv](https://arxiv.org/abs/2306.17582)
-
-* **[arXiv 24]** Language-Guided Object-Centric Diffusion Policy for Collision-Aware Robotic Manipulation, [arXiv](https://arxiv.org/pdf/2407.00451)
-
-* **[PMLR 23]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, [website](https://robotics-transformer2.github.io/)
-
-## 5. LLM Agnet (planning)
-* **[NIPS 23]** Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning, [website](https://guansuns.github.io/pages/llm-dm/)
+- [] **[arXiv 24]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
 ## 6. Generative Model for Embodied
-* **[arXiv 24]** Generative Image as Action Models, [website](https://genima-robot.github.io/)
+- [] **[arXiv 24]** Generative Image as Action Models, [website](https://genima-robot.github.io/)
 
-* **[arXiv 24]** Genie: Generative Interactive Environments, [website](https://sites.google.com/view/genie-24/home)
+- [] **[arXiv 24]** Genie: Generative Interactive Environments, [website](https://sites.google.com/view/genie-24/home)
 
-## 7. Visual Feature
-### 7.1 Correspondence
-* **[arXiv 23]** D<sup>3</sup> Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [website](https://robopil.github.io/d3fields/)
 
-* **[CoRL 20]** Transporter Networks: Rearranging the Visual World for Robotic Manipulation, [website](https://transporternets.github.io)
-
-* **[ICLR 24]** SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, [website](https://arxiv.org/abs/2310.16838)
-
-* **[ICRA 24]** UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence, [website](https://warshallrho.github.io/unigarmentmanip/)
-
-* **[CoRL 2018]** Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation, [PDF](https://arxiv.org/pdf/1806.08756)
-
-* **[arXiv 24]** Theia: Distilling Diverse Vision Foundation Models for Robot Learning, [website](https://theia.theaiinstitute.com/), [Github repo](https://github.com/bdaiinstitute/theia)
-
-### 7.2 Affordance
-
-* **[CoRL 22]** Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [website](https://peract.github.io/)
-
-* **[arXiv 24]** Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, [arXiv](https://arxiv.org/abs/2401.07487)
-
-* **[arXiv 24]** PreAfford: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments, [arXiv](https://air-discover.github.io/PreAfford/)
-
-* **[ICLR 22]** VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects, [website](https://hyperplane-lab.github.io/vat-mart/)
-
-* **[ICLR 23]** DualAfford: Learning Collaborative Visual Affordance for Dual-gripper Object Manipulation, [arXiv](https://arxiv.org/abs/2207.01971)
-
-* **[CVPR 22]** Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos, [website](https://stevenlsw.github.io/hoi-forecast/)
-
-* **[ICCV 23]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
-
-## 8. Detection & Segmentation
-
-* **[ECCV 24]** Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [Github repo](https://github.com/IDEA-Research/GroundingDINO?tab=readme-ov-file)
-
-* **[arXiv 24]** Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect, Segment and Generate Anything, [Github repo](https://github.com/IDEA-Research/Grounded-Segment-Anything)
-
-* **[ICCV 23]** DEVA: Tracking Anything with Decoupled Video Segmentation, [website](https://hkchengrex.com/Tracking-Anything-with-DEVA/)
-
-* **[ECCV 22]** Mem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model, [website](hkchengrex.com/XMem/)
-
-* **[ICCV 23]** VLPart: Going Denser with Open-Vocabulary Part Segmentation, [website](https://github.com/facebookresearch/VLPart)
-
-* LangSAM [Github repo](https://github.com/luca-medeiros/lang-segment-anything), combining Grounding DINO and SAM
- 
 
 ## 9. Pose Estimation and Tracking
-* **[CVPR 24 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
+- [] **[CVPR 24 (Highlight)]** FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects, [website](https://nvlabs.github.io/FoundationPose/)
 
-* **[CVPR 23 (Highlight)]** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts, [website](https://pku-epic.github.io/GAPartNet/)
+- [] **[CVPR 23 (Highlight)]** GAPartNet: Cross-Category Domain-Generalizable Object Perception and Manipulation via Generalizable and Actionable Parts, [website](https://pku-epic.github.io/GAPartNet/)
 
-* **[arXiv 23]** GAMMA: Generalizable Articulation Modeling and Manipulation for Articulated Objects, [website](https://sites.google.com/view/gamma-articulation)
+- [] **[arXiv 23]** GAMMA: Generalizable Articulation Modeling and Manipulation for Articulated Objects, [website](https://sites.google.com/view/gamma-articulation)
 
-* **[arXiv 24]** ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics, [website](https://sites.google.com/view/manipose)
+- [] **[arXiv 24]** ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics, [website](https://sites.google.com/view/manipose)
 
-* **[ICCV 23]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
+- [] **[ICCV 23]** AffordPose: A Large-scale Dataset of Hand-Object Interactions with Affordance-driven Hand Pose, [website](https://affordpose.github.io/)
 
-* **[CVPR 23]** BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects, [website](https://bundlesdf.github.io/)
+- [] **[CVPR 23]** BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects, [website](https://bundlesdf.github.io/)
 
-* **[arXiv 24]** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild, [website](https://rolpotamias.github.io/WiLoR/)
-
-## 10. Humanoid
-* **[arXiv 24]** HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/)
+- [] **[arXiv 24]** WiLoR: End-to-end 3D hand localization and reconstruction in-the-wild, [website](https://rolpotamias.github.io/WiLoR/)
 
 
-## 11. Dataset & Benchmark
-* **[arXiv 24]** Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks, [website](https://embodiedrobot.github.io/), [zhihu](https://zhuanlan.zhihu.com/p/688624666?utm_medium=social&utm_psn=1756405102318243840&utm_source=wechat_sessiong)
-* **[arXiv 24]** GRUtopia: Dream General Robots in a City at Scale, [Github Repo](https://github.com/OpenRobotLab/GRUtopia)
-* **[ICLR 24]** AgentBoard: An Analytical Evaluation Board of Multi-Turn LLM Agents, [website](https://hkust-nlp.github.io/agentboard/)
-* **[arXiv 24]** RoboCAS: A Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios, [Github repo](https://github.com/notFoundThisPerson/RoboCAS-v0)
-* **[arXiv 24]** BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark, [website](https://chernyadev.github.io/bigym/)
-* **[arXiv 24]** Evaluating Real-World Robot Manipulation Policies in Simulation, [website](https://simpler-env.github.io/)
-* **[arXiv 23]** Objaverse-XL: A Universe of 10M+ 3D Objects, [website](https://objaverse.allenai.org/)
 
-## 12. Hardware
-* **[arXiv 24]** DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [website](https://dex-cap.github.io/)
 
-## 13. 2D to 3D Generation
-
-* **[arXiv 24]** Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image, [website](https://wukailu.github.io/Unique3D/)
-
-## 14. Gaussian Splatting
-
-* **[SIGGRAPH 24]** 2DGS: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [website](https://surfsplatting.github.io/)
-
-## 15. Robotics for Medical
-* **[arXiv 24]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
 ## TO READ
 
